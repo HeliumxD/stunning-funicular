@@ -20,7 +20,7 @@ Wenn zum Beispiel beim ersten A1, das sind die Felder vom Tic Tac Toe, und A2 ü
 für jede einzelne Kombination machen, was in diesem Fall 8x sind, da man auf 8 verschiedene Arten gewinnen kann. Geprüft wird dies mit der Bool Funktion. Das
 heisst, wenn eben dort ein Gewinner ist, dass es dann dort zu true wird und das Spiel beendet und einen Punkt für den Gewinner zählt. Wenn keines der Möglichkeiten 
 zutrifft und alle Felder ausgeüllt sind, zählt das als Unentschieden und dafür haben wir auch einen Punktestand, der diese zählt.
-*Code für Punktestand
+![image](https://user-images.githubusercontent.com/111045656/209092628-8ab061c8-5bea-439a-82f3-001836bd361d.png)
 
 ## Verifikation
 
